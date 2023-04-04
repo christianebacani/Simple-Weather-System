@@ -1,3 +1,5 @@
+// Simple Weather System
+// Created by Christiane A. Bacani
 import java.util.Scanner;
 public class WeatherSystem {
     public static void main(String[] args) {
